@@ -1,0 +1,7 @@
+.vscode/
+MNIST_data/
+tensorflow-demo/Include
+tensorflow-demo/Lib
+tensorflow-demo/Scripts
+tensorflow-demo/pip*
+tensorflow-demo/pyenv*
